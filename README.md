@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👨🏼‍💻 About Me... 👋
 
-###👨🏼‍💻 About Me...
+### test
   
 - 🌱 Recent Graduate from Utah State University in Information Systems, Data Engineering Emphasis
 
