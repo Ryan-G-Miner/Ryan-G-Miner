@@ -1,20 +1,24 @@
 ## 👨🏼‍💻 About Me... 👋
 
-### 🌱 Recent Graduate from Utah State University in Information Systems, Data Engineering Emphasis
+🌱 Recent Graduate from Utah State University in Information Systems, Data Engineering Emphasis
 
-🗃️ IT Project Coordinator for the Church of Jesus Christ of Latter-day **Saints **
+🗃️ IT Project Coordinator for the Church of Jesus Christ of Latter-day Saints, leading project management initiatives for three data warehousing teams
 
+💡 Open to opportunities in Data Engineering and Data Analytics
 
+🛠 Skills & Technologies
+Programming Languages
+SQL • Python • Postgres
 
-<!--
-**Ryan-G-Miner/Ryan-G-Miner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Magagement
+Agile Methodology • Atlassian's Jira • Project Scoping • Budget Forecasting
 
-Here are some ideas to get you started:
+Database & Data Engineering
+Relational Databases (SQL Server, PostgreSQL) • OLTP & OLAP Systems • Data Warehousing • ETL Processes
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business Intelligence & Visualization
+Tableau (Desktop, Prep Studio) • Excel
+
+DevOps & Tools
+GitHub • AWS (EC2, S3, RDS, Lambda)
+
