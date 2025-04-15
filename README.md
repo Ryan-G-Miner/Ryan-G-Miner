@@ -10,15 +10,18 @@
 Programming Languages
 SQL • Python • Postgres
 
-Project Magagement
+## Project Magagement
 Agile Methodology • Atlassian's Jira • Project Scoping • Budget Forecasting
 
-Database & Data Engineering
+## Database & Data Engineering
 Relational Databases (SQL Server, PostgreSQL) • OLTP & OLAP Systems • Data Warehousing • ETL Processes
 
-Business Intelligence & Visualization
+## Business Intelligence & Visualization
 Tableau (Desktop, Prep Studio) • Excel
 
-DevOps & Tools
+## DevOps & Tools
 GitHub • AWS (EC2, S3, RDS, Lambda)
 
+## Connect with me 
+ LinkedIn - https://www.linkedin.com/in/ryangminer/
+ 
