@@ -1,8 +1,10 @@
 ## 👨🏼‍💻 About Me... 👋
 
-### test
-  
-- 🌱 Recent Graduate from Utah State University in Information Systems, Data Engineering Emphasis
+### 🌱 Recent Graduate from Utah State University in Information Systems, Data Engineering Emphasis
+
+🗃️ IT Project Coordinator for the Church of Jesus Christ of Latter-day **Saints **
+
+
 
 <!--
 **Ryan-G-Miner/Ryan-G-Miner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
