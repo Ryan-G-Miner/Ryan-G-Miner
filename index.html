@@ -24,7 +24,9 @@
         }
         .contact-info p, .education p, .experience p, .projects p, .service p {
             margin: 5px 0;
-        width: 150px;
+        }
+        .profile-pic {
+            width: 150px;
             height: 150px;
             border-radius: 50%;
             margin-bottom: 20px;
@@ -59,6 +61,12 @@
         ul li {
             margin-bottom: 10px;
         }
+        .tableau-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
     </style>
 </head>
 <body id="page-top">
@@ -70,7 +78,7 @@
         <a class="nav-link js-scroll-trigger" href="#education">Education</a>
         <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
         <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
-        <a class="nav-link js-scroll-trigger" href="#service">a>
+        <a class="nav-link js-scroll-trigger" href="#service">Service</a>
     </nav>
     <!-- Page Content -->
     <div class="container">
@@ -163,6 +171,19 @@
                         <ul>
                             <li>Created stylized, interactive Tableau dashboard detailing top-performing LEGO sets organized by theme, highlighting buying and selling opportunities for investors</li>
                         </ul>
+                        <!-- Tableau Embed Code -->
+                        <div class="tableau-container">
+                            <div class='tableauPlaceholder' id='viz1744927839614' style='position: relative'><noscript><a href='#'><img alt='SafeSpot ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9B&#47;9BHP3RM3J&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;9BHP3RM3J' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9B&#47;9BHP3RM3J&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+                            <script type='text/javascript'>                    
+                                var divElement = document.getElementById('viz1744927839614');                    
+                                var vizElement = divElement.getElementsByTagName('object')[0];                    
+                                vizElement.style.width='100%';
+                                vizElement.style.height='600px';                    
+                                var scriptElement = document.createElement('script');                    
+                                scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+                                vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+                            </script>
+                        </div>
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -172,4 +193,12 @@
                         <p>Python, SQL, Microsoft Excel</p>
                         <ul>
                             <li>Designed Python program analyzing 50,000+ records to indicate new product opportunities and target audience</li>
-                            <li>Identified employee most likely to succeed at managing new product
+                            <li>Identified employee most likely to succeed at managing new product</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
